@@ -1,6 +1,6 @@
 {
   "name": "mocha-api-errors",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Print full API responses in your Mocha tests when you get an unexpected responses.",
   "main": "index.js",
   "scripts": {
@@ -47,6 +47,6 @@
     "sinon": "^5.0.7"
   },
   "peerDependencies": {
-    "mocha": ">= 4.0.0 < 6.0.0"
+    "mocha": ">= 4.0.0 < 10.0.0"
   }
 }
